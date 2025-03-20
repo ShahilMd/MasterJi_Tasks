@@ -59,20 +59,34 @@ No installation required! This is a vanilla HTML/CSS/JavaScript application.
 - **JavaScript**: Interactivity and local data management
 - **LocalStorage API**: Client-side data persistence
 
-### Code Structure
+  
+# Assingment 2
+# Modern Quotes Generator
 
-The application is built as a single HTML file with embedded CSS and JavaScript:
+A sleek, responsive web application that generates random inspirational quotes with a beautiful UI.
 
-- **CSS**: Uses custom properties (variables) for theming and color management
-- **JavaScript**: Functions for mood selection, storage, retrieval, and UI updates
-- **Data Structure**: Mood entries are stored as JSON objects with timestamps, mood types, dates, and notes
+![Modern Quotes Generator Screenshot](https://placeholder.com/800x400)
+
+## Features
+
+- **Random Quote Generation**: Fetch inspirational quotes from a free API
+- **Text-to-Speech**: Listen to quotes with a built-in speech synthesizer
+- **Copy to Clipboard**: Easily copy quotes with one click
+- **Social Sharing**: Share your favorite quotes directly to Twitter
+- **Responsive Design**: Works perfectly on all devices and screen sizes
+
+## Tech Stack
+
+- HTML5
+- CSS3 (with animations and glass morphism effects)
+- Vanilla JavaScript
+- [Remix Icon](https://remixicon.com/) for UI elements
+- [FreeAPI.app](https://freeapi.app) for quote data
 
 
-## Limitations
+## Live Demo
 
-- Data is stored in the browser's localStorage, which has a storage limit of approximately 5MB
-- Clearing browser data will delete all mood history
-- No cloud synchronization across devices
+Check out the live demo [here](https://inspirequote.netlify.app/).
 
 
 Created with ❤️ by Md Shahil
