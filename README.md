@@ -65,7 +65,7 @@ No installation required! This is a vanilla HTML/CSS/JavaScript application.
 
 A sleek, responsive web application that generates random inspirational quotes with a beautiful UI.
 
-![Modern Quotes Generator Screenshot](https://placeholder.com/800x400)
+![Modern Quotes Generator Screenshot](https://github.com/ShahilMd/MasterJi_Tasks/blob/93f49ddd31599930766bb452ceb5c1553fbbe99e/Assignment2/Screenshot%202025-03-20%20185050.png)
 
 ## Features
 
