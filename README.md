@@ -4,7 +4,7 @@
 
 A lightweight, modern web application for tracking daily moods with a clean, intuitive interface. This app allows users to record their emotional states along with notes and visualize their mood history over time.
 
-![Mood Tracker App Screenshot]()
+![Mood Tracker App Screenshot](https://github.com/ShahilMd/MasterJi_Tasks/blob/62196c5244bd7063ebefd2bb42e1a8d8068663fd/Assignment1/src/Screenshot%202025-03-20%20165904.png)
 
 live Preview(https://moodifytrack.netlify.app/)
 
