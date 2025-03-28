@@ -125,6 +125,10 @@ body {
     margin-top: 20px;
     margin-bottom: 10px;
 }
+.copy{
+    background-color: greenyellow;
+    color: var(--bg-primary);
+}
 
 #preview-area p {
     color: var(--text-secondary);
